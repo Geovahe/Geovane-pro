@@ -1,0 +1,5 @@
+{
+  "name": "LotoSmart AI",
+  "description": "Um assistente inteligente de loteria que utiliza o Google Gemini para analisar tendências e sugerir jogos baseados em estatísticas reais.",
+  "requestFramePermissions": []
+}
